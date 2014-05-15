@@ -1,4 +1,4 @@
-This is your new Play application
+Play-MongoDB
 =====================================
 
-This file will be packaged with your application, when using `play dist`.
+A complete-working Play application with MongoDB using Casbah as driver and Salat for ORM. Mainly for future reference.
