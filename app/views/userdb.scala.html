@@ -1,0 +1,7 @@
+@(user: String)
+
+<p>Hello there @user.</p>
+
+@import models.EntryPoint._
+
+<li>@{ EntryPoint.trials(user).toString }</li>
